@@ -1,5 +1,4 @@
 # AlberBlanc
-# Test task 
 
 ## Instructions: 
 1. Check your Docker  ```brew install docker```
