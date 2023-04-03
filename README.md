@@ -5,7 +5,7 @@
 2. If everything is good, you can run
 
 ```
-docker build -t  .
+docker build  -t alber_test .
 docker run -i -t  IMAGE /bin/sh
 ```
 In Ubuntu just run 
