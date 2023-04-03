@@ -11,6 +11,6 @@ docker run -i -t  IMAGE /bin/sh
 In Ubuntu just run 
 
 ```
-python3 -v -s --junitxml=out_report.xml tester
+pytest -v -s --junitxml=out_report.xml tester
 ```
 
