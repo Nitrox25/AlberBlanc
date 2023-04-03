@@ -6,7 +6,7 @@
 
 ```
 docker build  -t alber_test .
-docker run -i -t  IMAGE /bin/sh
+docker run -i -t alber_test  /bin/sh
 ```
 In Ubuntu just run 
 
